@@ -1,7 +1,7 @@
 # React Minimal
 
 ### What is React Minimal?
-React Minimal is a simple boiler plate code to get started with React JS with ES6. It uses Babel to transpile ES6, WebPack for bundling.
+React Minimal is a simple boilerplate code to get started with React JS with ES6. It uses Babel to transpile ES6, WebPack for bundling.
 
 # Installation?
 
